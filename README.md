@@ -1,4 +1,4 @@
-# Jogo da Cobrinha em JavaScript 🐍
+# [Jogo da Cobrinha em JavaScript 🐍](https://adjcds.github.io/GameJS/)
 
 Este é um simples jogo da cobrinha criado com JavaScript, HTML e CSS. Desafie suas habilidades de reflexo e veja até onde você pode levar a cobrinha!
 
@@ -30,5 +30,5 @@ Este jogo foi criado como um projeto para praticar programação em JavaScript e
 Os agradecimentos especiais vão para [coding.stella](https://github.com/codingstella), cujo código foi uma inspiração e base para este projeto. Apesar de ter copiado boa parte do código original, fui executando-o aos poucos e fazendo algumas adições para melhorar o desenvolvimento.
 
 **Divirta-se jogando!** 🎮🐍
-
+](https://adjcds.github.io/GameJS/)https://adjcds.github.io/GameJS/
 
